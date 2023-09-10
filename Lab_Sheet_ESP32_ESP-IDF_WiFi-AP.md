@@ -15,7 +15,7 @@
 ![Alt text](Pictures/2.Select-template.png)
 
 
-2. แก้ไขไฟล์ config
+### 2. แก้ไขไฟล์ config
 
 2.1 เปิดไฟล์ Kconfig.projbuild  ในโฟลเดอร์ main ด้วย text editor
 
@@ -34,3 +34,25 @@
 2.2 แก้ไขไฟล์
 
 ![Alt text](./Pictures/4.Edit-Kconfig-file.png) 
+
+[1] แก้ไข SSID  ให้มีความแตกต่างจากของเพื่อน โดยใส่เลข 3 ตัวท้ายของรหัสนักศึกษากำกับไว้ เช่น `"WiFi SSID-001"` เป็นต้น
+
+[2]  อาจจะแก้ password ตามต้องการ
+
+หมายเหตุ ไฟล์นี้สามารถแก้ได้ภายหลังจากการเรียก  sdkconfig
+
+### 3. Build โปรเจค
+
+### 4. Run โปรเจค ดูผลจาก Terminal
+
+### 5. ใช้ Laptop หรือ Smartphone ค้นหา Accesspoint 
+
+ควรจะต้องเจอ `"WiFi SSID-..."` ในรายการ Wifi ที่เราสร้างขึ้น
+
+### 6. บันทึกผลการทดลอง 
+
+ทั้งที่หน้าจอ Laptop หรือ Smartphone และที่ terminal ของ ESP32
+
+### 7 ส่งงาน  
+โดยการ pull request พร้อมแนบ link ไปยัง Repository ของโปรเจคมาด้วย
+
