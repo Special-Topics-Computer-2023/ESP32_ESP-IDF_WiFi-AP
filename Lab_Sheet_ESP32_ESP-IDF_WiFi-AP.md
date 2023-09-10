@@ -5,7 +5,13 @@
 1. สร้าง Espressif IDF project ใหม่ ชื่อ  ESP32_ESP-IDF_WiFi-AP 
 
 
-![Alt text](./Pictures/Lab-picture-1.png)
+1.1  หลังจากใส่ชื่อ คลิก next เพื่อเลือก template project
+
+![Alt text](./Pictures/1.Create-new-project.png)
 
 
-2. แก้ไขไฟล์ main.c ให้เป็นดังนี้
+1.2 เลือก template project เป็น softAP
+
+![Alt text](Pictures/2.Select-template.png)
+
+
