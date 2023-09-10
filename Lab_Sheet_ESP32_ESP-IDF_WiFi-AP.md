@@ -15,3 +15,22 @@
 ![Alt text](Pictures/2.Select-template.png)
 
 
+2. แก้ไขไฟล์ config
+
+2.1 เปิดไฟล์ Kconfig.projbuild  ในโฟลเดอร์ main ด้วย text editor
+
+
+![Alt text](./Pictures/3.open-Kconfig-file.png)
+
+[1] เปิด folder  main
+ 
+[2] คลิกขวาที่ชื่อไฟล์ Kconfig.projbuild
+
+[3] เลือก Open With
+ 
+[4] เลือก Text Editor
+
+
+2.2 แก้ไขไฟล์
+
+![Alt text](./Pictures/4.Edit-Kconfig-file.png) 
