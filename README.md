@@ -73,5 +73,5 @@ esp_wifi_connect()
 
 ```
 
-## [>> ใบงานการทดลอง >> ](./Lab_Sheet_ESP32_ESP-IDF_WiFi-STA.md)
+## [>> ใบงานการทดลอง >> ](./Lab_Sheet_ESP32_ESP-IDF_WiFi-AP.md)
 
