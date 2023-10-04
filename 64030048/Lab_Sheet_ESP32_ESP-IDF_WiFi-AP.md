@@ -56,6 +56,10 @@
 รวมทั้งหน้าจอ properties ของ wifi ดังตัวอย่าง
 
 ![Alt text](./Pictures/5.Example_Wifi_Properties.png)
+
+![ภาพ](https://github.com/kammam19/ESP32_ESP-IDF_WiFi-AP/assets/112167732/225e6af7-f171-4275-b236-2d6ea2a5ac94)
+
+
 ### 7. ส่งงาน
 
 โดยการ pull request พร้อมแนบ link ไปยัง Repository ของโปรเจคมาด้วย
