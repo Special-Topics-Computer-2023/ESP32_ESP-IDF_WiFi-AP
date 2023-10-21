@@ -1,6 +1,6 @@
 # 64030165 Ratchanon
 
-- repo https://github.com/RatchanonBusaracome/ESP32_ESP-IDF_WiFi-AP/tree/main/64030165
+- repo https://github.com/RatchanonBusaracome/ESP32_ESP-IDF_WiFi-AP.git
 
 ## Connect Wifi with smartphone
 
