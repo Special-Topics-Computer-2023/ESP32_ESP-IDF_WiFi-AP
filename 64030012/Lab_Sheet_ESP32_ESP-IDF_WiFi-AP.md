@@ -61,7 +61,7 @@
 ![Alt text](./Pictures/5.Example_Wifi_Properties.png)
 
 
-
+```c
 entry 0x4008064c
 I (27) boot: ESP-IDF v5.0.2-dirty 2nd stage bootloader
 I (27) boot: compile time 15:12:12
@@ -448,7 +448,7 @@ I (375520) wifi:new:<1,1>, old:<1,0>, ap:<1,1>, sta:<255,255>, prof:1
 I (375530) wifi:station: c4:23:60:34:84:ba join, AID=1, bgn, 40U
 I (376020) wifi:station: c4:23:60:34:84:ba leave, AID = 1, bss_flags is 658530, bss:0x3ffb89f0
 I (376020) wifi:new:<1,0>, old:<1,1>, ap:<1,1>, sta:<255,255>, prof:1
-
+```
 
 
 
