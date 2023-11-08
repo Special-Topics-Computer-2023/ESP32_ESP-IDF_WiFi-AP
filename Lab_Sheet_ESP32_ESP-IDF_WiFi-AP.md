@@ -51,12 +51,9 @@
 
 ### 6. บันทึกผลการทดลอง 
 
-ทั้งที่หน้าจอ Laptop หรือ Smartphone และที่ terminal ของ ESP32
+![WiFi_AP_1](https://github.com/Wisawa183/ESP32_ESP-IDF_WiFi-AP/assets/115066431/bb071dde-6284-409c-bcb9-fbceaf07f4de)
+![WiFi_AP_2](https://github.com/Wisawa183/ESP32_ESP-IDF_WiFi-AP/assets/115066431/6a8f8785-f064-45b0-b3ee-6678455a81de)
+![WiFi_AP_3](https://github.com/Wisawa183/ESP32_ESP-IDF_WiFi-AP/assets/115066431/3fddf46d-01b2-49d3-b1a2-62a96fb75a17)
 
-รวมทั้งหน้าจอ properties ของ wifi ดังตัวอย่าง
-
-![Alt text](./Pictures/5.Example_Wifi_Properties.png)
-### 7. ส่งงาน
-
-โดยการ pull request พร้อมแนบ link ไปยัง Repository ของโปรเจคมาด้วย
+https://github.com/Wisawa183/ESP32_ESP-IDF_WiFi-AP
 
