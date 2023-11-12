@@ -76,7 +76,8 @@ esp_wifi_connect()
 ## [>> ใบงานการทดลอง >> ](./Lab_Sheet_ESP32_ESP-IDF_WiFi-AP.md)
 
 ผลลัพธ์
-![372319487_1085339762897804_3104604954625476077_n](https://github.com/TanapatPluemchai/ESP32_ESP-IDF_WiFi-AP/assets/115067806/0280e737-33fa-42b4-a42a-eaef35294de5)
+![image](https://github.com/TanapatPluemchai/ESP32_ESP-IDF_WiFi-AP/assets/115067806/bc13995c-4449-4000-b0ef-0b3ecc5f49c1)
+
 
 ## code
 ```
