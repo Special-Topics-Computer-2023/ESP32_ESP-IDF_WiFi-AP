@@ -57,6 +57,17 @@
 
 ![Alt text](./Pictures/5.Example_Wifi_Properties.png)
 ### 7. ส่งงาน
+![image](https://github.com/Sorrawit087/ESP32_ESP-IDF_WiFi-AP/assets/110808862/002a17c9-158a-4455-b04f-2a189000c181)
+
+![image](https://github.com/Sorrawit087/ESP32_ESP-IDF_WiFi-AP/assets/110808862/4386e032-bb1d-47cd-b3ad-6cc8a7afdac8)
+
+![image](https://github.com/Sorrawit087/ESP32_ESP-IDF_WiFi-AP/assets/110808862/39c39a00-2ee2-43d6-974e-617741cf87c8)
+
+![image](https://github.com/Sorrawit087/ESP32_ESP-IDF_WiFi-AP/assets/110808862/b5076ef4-fe18-45f1-b248-e97ffc79f847)
+
+
+
 
 โดยการ pull request พร้อมแนบ link ไปยัง Repository ของโปรเจคมาด้วย
 
+repo:https://github.com/Sorrawit087/WiFi-AP
